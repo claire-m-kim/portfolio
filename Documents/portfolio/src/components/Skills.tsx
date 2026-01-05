@@ -6,10 +6,9 @@ export function Skills() {
     {
       title: "디자인 도구",
       skills: [
-        { name: "Figma", level: 95 },
-        { name: "Adobe XD", level: 85 },
+        { name: "Figma", level: 85 },
         { name: "Photoshop", level: 90 },
-        { name: "Illustrator", level: 80 }
+        { name: "Illustrator", level: 90 }
       ]
     },
     {
@@ -18,7 +17,6 @@ export function Skills() {
         { name: "HTML/CSS", level: 85 },
         { name: "JavaScript", level: 70 },
         { name: "React", level: 65 },
-        { name: "Tailwind CSS", level: 80 }
       ]
     },
     {
@@ -27,7 +25,6 @@ export function Skills() {
         { name: "사용자 리서치", level: 80 },
         { name: "와이어프레이밍", level: 90 },
         { name: "프로토타이핑", level: 85 },
-        { name: "디자인 시스템", level: 75 }
       ]
     }
   ];

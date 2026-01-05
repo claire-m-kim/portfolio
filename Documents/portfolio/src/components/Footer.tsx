@@ -13,7 +13,7 @@ export function Footer() {
             <div className="text-2xl bg-gradient-to-r from-pink-400 to-cyan-400 bg-clip-text text-transparent mb-2">
               Portfolio ✨
             </div>
-            <p className="text-white/80">&copy; 2025 김민지 Portfolio. All rights reserved.</p>
+            <p className="text-white/80">&copy; 2026 김미래 Portfolio. All rights reserved.</p>
           </div>
           
           <div className="flex space-x-8">

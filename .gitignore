@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# build output
+build/
+dist/
+
+# OS files
+.DS_Store
+
+# gh-pages cache (혹시 남아있다면)
+node_modules/.cache/

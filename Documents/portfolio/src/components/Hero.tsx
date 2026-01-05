@@ -10,7 +10,7 @@ export function Hero() {
             <div className="space-y-6">
               <div className="inline-block">
                 <span className="px-4 py-2 bg-gradient-to-r from-purple-600/20 to-blue-600/20 rounded-full text-sm backdrop-blur-sm border border-purple-300/20">
-                  ✨ 2025 웹디자이너
+                  ✨ Web Designer
                 </span>
               </div>
               <h1 className="text-5xl lg:text-7xl leading-tight">
@@ -20,7 +20,7 @@ export function Hero() {
                   웹디자이너
                 </span>
                 <br />
-                김민지입니다
+                김미래입니다
               </h1>
               <p className="text-xl text-muted-foreground leading-relaxed">
                 사용자 경험을 중시하는 창의적이고 열정적인 웹디자이너입니다. 
