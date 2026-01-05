@@ -4,13 +4,13 @@ export function About() {
   const experiences = [
     {
       title: "학력",
-      content: "디지털디자인학과 졸업 (2022)",
+      content: "소프트웨어공학과 졸업 (2025)",
       icon: "🎓",
       gradient: "from-purple-400 to-pink-600"
     },
     {
       title: "경험",
-      content: "프리랜서 웹디자인 프로젝트 10+ 완료",
+      content: "공기업, 핀테크 스타트업 등 약 2년 6개월 +",
       icon: "💼",
       gradient: "from-blue-400 to-cyan-600"
     },
@@ -47,7 +47,7 @@ export function About() {
                   저에 대해 소개합니다
                 </h3>
                 <p className="text-muted-foreground leading-relaxed text-lg">
-                  안녕하세요! 4년간 디지털 디자인을 공부하며 웹디자인에 대한 열정을 키워왔습니다. 
+                  안녕하세요! 소프트웨어 공학을 공부하며 웹디자인에 대한 열정을 키워왔습니다. 
                   사용자 경험(UX)과 사용자 인터페이스(UI) 디자인에 특히 관심이 많으며, 
                   최신 디자인 트렌드와 기술을 꾸준히 학습하고 있습니다.
                 </p>

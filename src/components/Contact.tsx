@@ -15,14 +15,8 @@ export function Contact() {
     {
       icon: <Mail className="w-5 h-5" />,
       label: "이메일",
-      value: "designer.minji@email.com",
-      href: "mailto:designer.minji@email.com",
-    },
-    {
-      icon: <Phone className="w-5 h-5" />,
-      label: "연락처",
-      value: "010-1234-5678",
-      href: "tel:010-1234-5678",
+      value: "web_publisher@naver.com",
+      href: "mailto:web_publisher@naver.com",
     },
     {
       icon: <MapPin className="w-5 h-5" />,
@@ -36,12 +30,7 @@ export function Contact() {
     {
       icon: <Github className="w-5 h-5" />,
       label: "GitHub",
-      href: "https://github.com",
-    },
-    {
-      icon: <Linkedin className="w-5 h-5" />,
-      label: "LinkedIn",
-      href: "https://linkedin.com",
+      href: "https://github.com/claire-m-kim/,
     },
   ];
 
