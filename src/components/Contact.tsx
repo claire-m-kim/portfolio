@@ -30,7 +30,7 @@ export function Contact() {
     {
       icon: <Github className="w-5 h-5" />,
       label: "GitHub",
-      href: "https://github.com/claire-m-kim/,
+      href: "https://github.com/claire-m-kim/",
     },
   ];
 
