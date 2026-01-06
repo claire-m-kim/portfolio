@@ -1,5 +1,6 @@
 import { Button } from "./ui/button";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
+import profileImage from "../assets/images/profile.png";
 
 export function Hero() {
   return (
@@ -33,14 +34,15 @@ export function Hero() {
                 size="lg" 
                 className="px-8 py-4 bg-gradient-to-r from-purple-600 to-blue-600 border-0 shadow-2xl hover:shadow-purple-500/25 transition-all duration-500 hover:scale-105 group"
               >
-                <span className="group-hover:scale-110 transition-transform duration-300">포트폴리오 보기</span>
+                <span className="group-hover:scale-110 transition-transform duration-300">
+                  <a href="#portfolio">포트폴리오 보기</a></span>
               </Button>
               <Button 
                 variant="outline" 
                 size="lg" 
                 className="px-8 py-4 border-2 border-purple-300/30 bg-white/10 backdrop-blur-sm hover:bg-purple-50/20 hover:border-purple-400/50 transition-all duration-300 hover:scale-105"
               >
-                연락하기
+                <a href="#contact">연락하기</a>
               </Button>
             </div>
           </div>
@@ -50,7 +52,7 @@ export function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-purple-600 to-blue-600 rounded-full blur-2xl opacity-30 group-hover:opacity-50 transition-all duration-500 animate-pulse"></div>
               <div className="relative">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1613483811459-1c4bb7a234f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdCUyMHdvbWFuJTIwZGVzaWduZXJ8ZW58MXx8fHwxNzU4NTE0NzEzfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                  src={profileImage}
                   alt="프로필 사진"
                   className="w-80 h-80 rounded-full object-cover shadow-2xl border-4 border-white/20 backdrop-blur-sm group-hover:scale-105 transition-all duration-500"
                 />

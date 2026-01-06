@@ -7,14 +7,14 @@ export function Skills() {
       title: "디자인 도구",
       skills: [
         { name: "Figma", level: 85 },
-        { name: "Photoshop", level: 90 },
-        { name: "Illustrator", level: 90 }
+        { name: "Photoshop", level: 80 },
+        { name: "Illustrator", level: 80 }
       ]
     },
     {
       title: "개발 기술",
       skills: [
-        { name: "HTML/CSS", level: 85 },
+        { name: "HTML/CSS", level: 90 },
         { name: "JavaScript", level: 70 },
         { name: "React", level: 65 },
       ]

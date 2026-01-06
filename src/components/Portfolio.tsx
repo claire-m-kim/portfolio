@@ -12,33 +12,40 @@ export function Portfolio() {
       category: "웹사이트"
     },
     {
-      title: "모바일 쇼핑 앱 UI",
-      description: "직관적이고 사용하기 쉬운 모바일 쇼핑 앱 인터페이스",
+      title: "인터랙티브 비즈니스 웹사이트",
+      description: "기업의 신뢰감을 중심으로 한 웹사이트 디자인",
       image: "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjB1aSUyMGRlc2lnbnxlbnwxfHx8fDE3NTg1MDg1NzR8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      tags: ["Mobile", "UI Design", "E-commerce"],
-      category: "모바일 앱"
-    },
-    {
-      title: "대시보드 인터페이스",
-      description: "데이터 시각화에 최적화된 관리자 대시보드",
-      image: "https://images.unsplash.com/photo-1588511986632-592db3d6c81f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWJzaXRlJTIwZGFzaGJvYXJkJTIwZGVzaWdufGVufDF8fHx8MTc1ODU5MjcwNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      tags: ["Dashboard", "Data Visualization", "Admin"],
-      category: "웹 애플리케이션"
-    },
-    {
-      title: "브랜드 아이덴티티",
-      description: "일관성 있는 브랜드 아이덴티티와 로고 디자인",
-      image: "https://images.unsplash.com/photo-1658863025658-4a259cc68fc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxicmFuZGluZyUyMGRlc2lnbiUyMHBvcnRmb2xpb3xlbnwxfHx8fDE3NTg1ODI2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      tags: ["Branding", "Logo", "Visual Identity"],
-      category: "브랜딩"
-    },
-    {
-      title: "이커머스 플랫폼",
-      description: "사용자 친화적인 온라인 쇼핑몰 디자인",
-      image: "https://images.unsplash.com/photo-1694599048261-a1de00f0117e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlLWNvbW1lcmNlJTIwd2Vic2l0ZSUyMGRlc2lnbnxlbnwxfHx8fDE3NTg1Mzc0Njh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-      tags: ["E-commerce", "UX Design", "Conversion"],
+      tags: ["Web Design", "Interaction", "Responsive"],
       category: "웹사이트"
-    }
+    },
+    {
+      title: "핀테크 LP 페이지",
+      description: "간편결제 서비스의 LP 페이지 디자인",
+      image: "https://images.unsplash.com/photo-1588511986632-592db3d6c81f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWJzaXRlJTIwZGFzaGJvYXJkJTIwZGVzaWdufGVufDF8fHx8MTc1ODU5MjcwNnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      tags: ["Web Design", "Landing Page", "Fintech"],
+      category: "웹사이트"
+    },
+    {
+      title: "모찌런 PPT, 시연영상 디자인",
+      description: "AI 일본어 학습 웹서비스 PPT, 영상 디자인",
+      image: "https://images.unsplash.com/photo-1658863025658-4a259cc68fc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxicmFuZGluZyUyMGRlc2lnbiUyMHBvcnRmb2xpb3xlbnwxfHx8fDE3NTg1ODI2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      tags: ["Presentation Design", "Motion", "Product Demo"],
+      category: "영상"
+    },
+    {
+      title: "홍보영상 디자인",
+      description: "기업 홍보용 영상 디자인",
+      image: "https://images.unsplash.com/photo-1694599048261-a1de00f0117e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlLWNvbW1lcmNlJTIwd2Vic2l0ZSUyMGRlc2lnbnxlbnwxfHx8fDE3NTg1Mzc0Njh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      tags: ["Motion Design", "Promotion", "Brand Video"],
+      category: "영상"
+    },
+    {
+      title: "디자인 제안서",
+      description: "로고, 홈페이지, 영상 등 브랜드 제안서 디자인",
+      image: "https://images.unsplash.com/photo-1630522790858-50b4ef44944b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3ZWIlMjBkZXNpZ24lMjBtb2NrdXB8ZW58MXx8fHwxNzU4NTQxOTAwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+      tags: ["Branding", "Logo", "Visual Identity"],
+      category: "제안서"
+    },
   ];
 
   return (
