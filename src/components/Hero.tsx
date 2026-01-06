@@ -1,6 +1,6 @@
 import { Button } from "./ui/button";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import profileImage from "../assets/images/profile.png";
+import profileImage from "../assets/images/profile.jpg";
 
 export function Hero() {
   return (
