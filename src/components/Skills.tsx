@@ -48,7 +48,7 @@ export function Skills() {
             </span>
           </div>
           <h2 className="text-4xl lg:text-5xl bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent mb-6">
-            Skills
+            My Toolkit
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             다양한 도구와 기술을 활용하여 최고의 디자인을 구현합니다
